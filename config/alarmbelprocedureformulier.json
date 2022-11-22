@@ -2,8 +2,8 @@
 {
   "name": "alarmbelprocedureformulier-ap",
   "type": "ap",
-  "eap": "AlarmbelprocedureFormulier.eap",
-  "diagram": "AlarmbelprocedureFormulier",
+  "eap": "Alarmbelprocedureformulier.eap",
+  "diagram": "Alarmbelprocedureformulier",
   "template": "alarmbelprocedureformulier-ap.j2",
   "title": "Alarmbelprocedureformulier",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
